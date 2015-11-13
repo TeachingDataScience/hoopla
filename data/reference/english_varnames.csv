@@ -1,0 +1,38 @@
+PLUS_MINUS,Points Advantage
+NET_RATING,Net Rating
+PIE,Overall Impact
+OPP_PTS,Opponent Points
+OPP_FG_PCT,Opponent Shot %
+OPP_EFG_PCT,Opponent Effective Shot %
+DEF_RATING,Defensive Rating
+DREB,Defensive Rebounds
+OFF_RATING,Offensive Rating
+PTS,Points
+OPP_FGM,Opponents Shots Made
+FG3M,3 Pointers Made
+TS_PCT,Total Shot %
+EFG_PCT,Effective Shot %
+OPP_AST,Opponent Assists
+REB,Rebounds
+OPP_PTS_OFF_TOV,Opponent Points via Turnovers
+FGM,Field Goals Made
+FG_PCT,Shots %
+PCT_PTS_3PT,3 point %
+BLKA,Blocks (assists)
+OPP_BLK,Opponent Blocks
+OPP_PTS_FB,Opponent Free Throws
+OPP_FG3M,Opponent 3 Pointers
+OPP_OREB,Opponent Offensive Rebounds
+REB_PCT,Rebound %
+PTS_PAINT,Points in Paint
+OPP_DREB,Opponent D-Rebounds
+PTS_OFF_TOV,Points via Turnovers
+AST,Assists
+AST_RATIO,Assist Ratio
+BLK,Blocks
+OPP_BLKA,Opponents Blocks
+W_PCT,Win %
+W, Wins
+L, Losses
+FT_PCT,Free Throw %
+FG3_PCT,3 Point %
